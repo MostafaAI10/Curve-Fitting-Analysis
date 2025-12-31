@@ -6,6 +6,8 @@ This project implements a robust, high-resolution curve fitting pipeline for noi
 
 The core fitting method is based on MATLAB's `spap2` function (least-squares cubic splines with user-defined breakpoints), supported by automatic fallback strategies to ensure reliability.
 
+![image alt](https://github.com/MostafaAI10/Curve-Fitting-Analysis/blob/abf1e3bcb6bdbe28fdf6bdf63175d955280e0696/Curve%20Fitting/curve_fitting_detailed.png)
+
 ## Key Features
 
 - ✅ Comprehensive data cleaning and validation
